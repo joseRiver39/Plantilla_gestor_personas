@@ -1,7 +1,6 @@
 import { type NextRequest, NextResponse } from "next/server"
 import { executeQuery } from "@/lib/db"
-// import bcrypt from "bcrypt"
-// import jwt from "jsonwebtoken"
+
 
 // export async function POST(request: NextRequest) {
 //   try {
